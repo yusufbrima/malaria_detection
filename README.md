@@ -3,7 +3,6 @@
 Project Title
 Deep Residual Convolutional Neural Network Malaria Detection from microsopic bllo cell images
 
-Getting Started
 Experiment with Deep Residual Convolutional Neural Network to classify microscopic blood cell images (Uninfected, Parasitized)
 Utiling ResNet,Deep Residual Learning for Image Recognition (He et al, 2015) architecture. 
 Uses Keras with a Tensorflow backend. 
